@@ -2,7 +2,7 @@
 В нашем проекте мы будем рассматривать рейтинг 2000 самых крупных компаний с [сайта Форбс](https://www.forbes.com/consent/ketch/?toURL=https://www.forbes.com/lists/global2000/). 
 Попробуем проанализировать взаимосвязь денежных показателей компаний и их качественных характеристик.
 <br>
-<img src='https://ibb.co/7QNWhch' width='200' style='display: block; margin: 0 auto;'>
+<img src='https://drive.google.com/file/d/1HwLzl_4w19rFak5A3uqFbgUXOjrCkvUA/view?usp=drive_link' width='200' style='display: block; margin: 0 auto;'>
 <br>
 
 ## Гипотезы
