@@ -17,8 +17,6 @@ MV - Market Value - рыночная стоимость компании\
 Industry - индустрия, сфера работы компании\
 Founded - год основания\
 Employees - количество работников\
-Share price - цена акции или None, если акции не торгуются\
-Shares availability - 1, если акции торгуются, и 0, если не торгуются\
 Company age - возраст компании на 2023 год\
 World - часть света, где находится Country
 ![image](https://github.com/shushenka/Capybaras/blob/main/для%20ридми/таблица.png)
