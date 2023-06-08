@@ -21,7 +21,7 @@ Share price - цена акции или None, если акции не торг
 Shares availability - 1, если акции торгуются, и 0, если не торгуются\
 Company age - возраст компании на 2023 год\
 World - часть света, где находится Country
-![image](таблица.png)
+![image](https://github.com/shushenka/Capybaras/blob/main/для%20ридми/таблица.png)
 
 ##  Часть визуализаций, которые у нас получились
 ![image](https://github.com/shushenka/Capybaras/blob/main/для%20ридми/по%20индустриям.png)
